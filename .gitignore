@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.env
+chroma_*
+chroma/
+.DS_Store
+__pycache__
+*.pyc
